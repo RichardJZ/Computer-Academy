@@ -1,0 +1,136 @@
+
+/*
+
+@media only screen and(max-width:480px) {
+		
+		.box{
+			padding: 0;
+			
+		}
+		
+			body{
+			
+			font-size: 8px;
+			color: green;
+			}
+
+}
+/* Small phones to small tablets: from 481px to 767px 	*/	
+
+/* media queries must be spelt exactly!!!! */
+
+
+/*
+
+@media only screen and(max-width:480px) {
+		
+		.box{
+			padding: 0;
+			
+		}
+		
+			body{
+			
+			font-size: 8px;
+			color: green;
+			}
+
+}
+/* Small phones to small tablets: from 481px to 767px 	*/	
+
+/* media queries must be spelt exactly!!!! */
+
+@media only screen and (max-width: 767px) {
+		
+		section{
+			padding: 60px 0;
+			
+		}
+		
+		body{
+			
+			font-size: 18px;
+			font-weight: 200;
+			
+		.section-features {
+			
+			font-weight: 100;
+			font-size: 80%;
+			
+		}
+			
+			
+			
+		}
+		.long-copy{
+			
+				width: 90%;
+				margin: 0 10% 30px 10%;
+				font-size: 80%;
+				font-weight: 100;
+				
+				
+			
+		}
+		
+		.cities {
+			width: 50%;
+			float: left;
+			font-weight: 100;
+			font-size: 80%;
+			
+			
+			
+		}
+			
+		.own-location {
+			width: 100%;
+			float: left;			
+			font-weight: 100;
+			font-size: 80%;
+		}
+			
+		}
+		
+		
+		
+		
+		
+
+/* Small phones to small tablets: from 481px to 767px */
+@media only screen and (max-width: 767px) {
+    body { font-size: 18px; }
+    section { padding: 30px 0; }
+	
+	.section-features {
+		font-weight: 100;
+		font-size: 80%;
+		
+	}
+
+	
+	.cities {
+			width: 100%;
+			font-weight: 100;
+			font-size: 80%;
+		
+		
+	}
+	
+	.excel-onderwerpen--showcase li {
+	display: block;
+	float: left;
+	width: 50%;
+	}
+	
+}
+	
+	
+    
+    
+	
+	
+
+
+	
+

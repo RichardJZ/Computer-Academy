@@ -1,0 +1,35 @@
+@media only screen and(max-width:480px) {
+		
+		.box{
+			padding: 0;
+			
+		}
+		
+			body{
+			
+			font-size: 8px;
+			color: green;
+			}
+
+}
+		
+@media only screen and(max-width: 767px) {
+		
+		section{
+			padding: 80px;
+			
+		}
+		
+		body{
+			
+			font-size: 8px;
+			color: green;
+			
+		}
+		.long-copy{
+			
+				width: 90%;
+				margin: 0 50% 30px 50%;
+			
+		}
+	}
